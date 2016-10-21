@@ -3,10 +3,12 @@
 @import url('https://fonts.googleapis.com/css?family=Inconsolata');
 
 h1 { font-family: 'Inconsolata', monospace; font-size: 2em; text-transform: uppercase; text-align: center;}
+span { color: #246888;}
 
 /* GAME PAGE */
 
 .game {margin: 50px auto 10px auto; width: 600px; height: 360px; background-image: url(bg-v2.gif); border: 5px solid #000; }
-.dialogue { margin: 0px auto; padding: 5px; width: 590px; height: auto; background-color: #eee; border: 5px solid #000; text-align: justify; font-size: 14px; font-family: 'Inconsolata', monospace;}
+.dialogue { margin: 0px auto; padding: 5px; width: 590px; height: 100px; background-color: #eee; border: 5px solid #000; text-align: justify; font-size: 14px; font-family: 'Inconsolata', monospace; overflow: hidden;}
+.button { margin: 10px auto; height: 30px; background-color: #246888; font-family: 'Inconsolata', monospace; font-size: 1.5em; text-align: center; text-transform: uppercase;}
 
 .potato {width: 46px; height:54px; background-image: url(potato.gif); position: relative; top: 250px; left: 10px;}
