@@ -1,0 +1,4 @@
+.game {margin: 50px auto 10px auto; width: 600px; height: 360px; background-image: url(bg.png); border: 5px solid #000; }
+.dialogue { margin: 0px auto; padding: 5px; width: 590px; height: auto; background-color: #eee; border: 5px solid #000; text-align: justify; font-size: 14px; font-family: monospace;}
+
+.potato {width: 46px; height:54px; background-image: url(potato.gif); position: relative; top: 250px; left: 10px;}
