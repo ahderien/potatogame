@@ -1,3 +1,11 @@
+/* GENERAL */
+
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+
+h1 { font-family: 'Inconsolata', monospace; font-size: 2em; text-transform: uppercase; text-align: center;}
+
+/* GAME PAGE */
+
 .game {margin: 50px auto 10px auto; width: 600px; height: 360px; background-image: url(bg.png); border: 5px solid #000; }
 .dialogue { margin: 0px auto; padding: 5px; width: 590px; height: auto; background-color: #eee; border: 5px solid #000; text-align: justify; font-size: 14px; font-family: monospace;}
 
