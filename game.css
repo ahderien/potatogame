@@ -8,16 +8,19 @@ a {text-decoration: none;}
 
 /* FRONT PAGE */
 
-.front { margin: 0px auto; padding: 5px; width: 590px; height: auto; background-color: #eee; border: 5px solid #000; text-align: justify; font-size: 14px; font-family: 'Inconsolata', monospace; overflow: hidden;}
+.front { margin: 10px auto; padding: 5px; width: 590px; height: auto; background-color: #eee; border: 5px solid #000; text-align: justify; font-size: 14px; font-family: 'Inconsolata', monospace; overflow: hidden;}
 
 /* GAME PAGE */
 
 .game {margin: 50px auto 10px auto; width: 600px; height: 360px; background-image: url(bg-v2.gif); border: 5px solid #000; }
-.dialogue { margin: 0px auto; padding: 5px; width: 590px; height: 100px; background-color: #eee; border: 5px solid #000; text-align: justify; font-size: 14px; font-family: 'Inconsolata', monospace; overflow: hidden;}
+.dialogue { margin: 0px auto 10px auto; padding: 5px; width: 590px; height: 100px; background-color: #eee; border: 5px solid #000; text-align: justify; font-size: 14px; font-family: 'Inconsolata', monospace; overflow: hidden;}
 .button { margin: 10px auto; padding: 5px; width: 100px; height: 30px; background-color: #246888; font-family: 'Inconsolata', monospace; font-size: 1.5em; color: #fff; text-decoration: none; text-align: center; text-transform: uppercase; border: 1px solid #000;}
 .button:hover { background-color: #135777;}
 .button a, .button a:hover, .button a:visited { color: #fff; text-decoration: none;}
 
-.potato {width: 46px; height:54px; background-image: url(potato.gif); position: relative; top: 250px; left: 10px;}
-
 .d {height: 110px; }
+
+/* SPRITES */
+
+.potato {width: 46px; height:54px; background-image: url(potato.gif); position: relative; top: 250px; left: 10px;}
+.cucumber {width: 50px; height: 50px; background-image: url(cucumber.gif); position: absolute; overflow: visible; z-index: 999; display: none; }
