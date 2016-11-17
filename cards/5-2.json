@@ -1,0 +1,10 @@
+{
+    "charleft":"potato.gif",
+    "charright":"cucumber.gif",
+    "dialogue":"Whoops.  Looks like we missed some plot while we were talking.  Look!  It's Cucumber.",
+    
+    "choices":[
+        {"text":"Next","next":"5-1.json"},
+        {"text":"","next":""}
+    ]
+}

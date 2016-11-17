@@ -1,0 +1,10 @@
+{
+    "charleft":"potato.gif",
+    "charright":"blank.gif",
+    "dialogue":"Sometimes, you'll have more than one choice, and the option you choose will change your game.",
+    
+    "choices":[
+        {"text":"Got it","next":"3-1.json"},
+        {"text":"I guess","next":"3-2.json"}
+    ]
+}

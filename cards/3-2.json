@@ -1,0 +1,10 @@
+{
+    "charleft":"potato.gif",
+    "charright":"blank.gif",
+    "dialogue":"Come on!  You've gotta give it more than that.  How do you expect to win with an attitude like that?  Well, that's all I can teach you, so I guess all we've got left is the plot.",
+    
+    "choices":[
+        {"text":"Cool","next":"4-1.json"},
+        {"text":"Wait","next":"4-2.json"}
+    ]
+}

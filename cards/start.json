@@ -1,0 +1,11 @@
+{
+    "charleft":"potato.gif",
+    "charright":"blank.gif",
+     "dialogue":"The day starts just like any other.  Potato is walking along, enjoying everything that the delightfully overcast outdoors has to offer them; and that's all that will happen unless you press the next button.",
+    
+    "choices":[
+        {"text":"Next","next":"1.json"},
+        {"text":"","next":""}
+    ]
+    
+}

@@ -1,0 +1,10 @@
+{
+    "charleft":"potato.gif",
+    "charright":"blank.gif",
+    "dialogue":"Congratulations!  You pressed the next button.  Being able to press buttons will be essential to Potato's adventure.",
+    
+    "choices":[
+        {"text":"Great","next":"2.json"},
+        {"text":"","next":""}
+    ]
+}
