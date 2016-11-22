@@ -1,0 +1,10 @@
+{
+    "charleft":"potato.gif",
+    "charright":"blank.gif",
+    "dialogue":"Why would you do that?  Well... congratulations.  Game over.",
+    
+    "choices":[
+        {"text":"Retry","next":"start.json"},
+        {"text":"Retry","next":"start.json"}
+    ]
+}

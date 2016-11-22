@@ -1,0 +1,10 @@
+{
+    "charleft":"potato.gif",
+    "charright":"cucumber.gif",
+    "dialogue":"Mmmm... Delicious, delicious, nutrient-rich dirt.  Potato and Cucumber have a nice date, and then Cucumber says goodbye.  After walking for a bit longer, Potato comes to a crossroads.  Should they go left or right?",
+    
+    "choices":[
+        {"text":"Left","next":"8-1.json"},
+        {"text":"Right","next":"8-2.json"}
+    ]
+}

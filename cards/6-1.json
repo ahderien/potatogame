@@ -1,0 +1,10 @@
+{
+    "charleft":"potato.gif",
+    "charright":"cucumber.gif",
+    "dialogue":"Potato gives Cucumber a hearty hello.  She is quite happy to talk with our starchy hero.  After walking together for a while, the two realize they're hungry.  What should Potato suggest they eat?",
+    
+    "choices":[
+        {"text":"Spring Salad","next":"6-2.json"},
+        {"text":"Dirt","next":"7-1.json"}
+    ]
+}

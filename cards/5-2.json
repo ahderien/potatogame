@@ -4,7 +4,7 @@
     "dialogue":"Whoops.  Looks like we missed some plot while we were talking.  Look!  It's Cucumber.",
     
     "choices":[
-        {"text":"Next","next":"5-1.json"},
-        {"text":"","next":""}
+        {"text":"Say Hi","next":"6-1.json"},
+        {"text":"Ignore","next":"6-2.json"}
     ]
 }
