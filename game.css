@@ -14,7 +14,7 @@ a {text-decoration: none;}
 
 .game {margin: 50px auto 10px auto; width: 600px; height: 360px; background-image: url(backgrounds/bg-v2.gif); border: 5px solid #000; }
 #dialogue { margin: 5px auto 10px auto; padding: 5px; width: 590px; background-color: #eee; border: 5px solid #000; text-align: justify; font-size: 14px; font-family: 'Inconsolata', monospace; overflow: hidden;}
-.button { margin: 10px; padding: 5px; width: 100px; height: 30px; background-color: #246888; font-family: 'Inconsolata', monospace; font-size: 1.5em; color: #fff; text-decoration: none; text-align: center; text-transform: uppercase; border: 1px solid #000; float: left; clear: none;}
+.button { margin: 10px; padding: 5px; width: 100px; min-height: 30px; background-color: #246888; font-family: 'Inconsolata', monospace; font-size: 1.5em; color: #fff; text-decoration: none; line-height: 30px; text-align: center; text-transform: uppercase; border: 1px solid #000; float: left; clear: none;}
 .button:hover { background-color: #135777;}
 .button a, .button a:hover, .button a:visited { color: #fff; text-decoration: none;}
 

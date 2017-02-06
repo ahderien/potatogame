@@ -1,7 +1,7 @@
 {
     "charleft":"potato.gif",
-    "charright":"blank.gif",
-    "dialogue":"Potato turns right and continues down the path until they come across VEGGIE.",
+    "charright":"pumpkin.gif",
+    "dialogue":"Potato turns right and continues down the path until they come across Pumpkin.",
     
     "choices":[
         {"text":"Left","next":"8-1.json"},
