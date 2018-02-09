@@ -1,0 +1,10 @@
+{
+    "charleft":"potato.gif",
+    "charright":"tomato.gif",
+    "dialogue":"Huh?  Why not?  Grr!  Tomato wants to play a game!!",
+    
+    "choices":[
+        {"text":"Okay, okay!","next":"8-1-2.json"},
+        {"text":"Run away!","next":"8-1-6.json"}
+    ]
+}

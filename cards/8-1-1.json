@@ -1,0 +1,10 @@
+{
+    "charleft":"potato.gif",
+    "charright":"tomato.gif",
+    "dialogue":"Tomato is a very lively character!  They love to sing and dance, and they want Potato to play with them.",
+    
+    "choices":[
+        {"text":"Sure","next":"8-1-2.json"},
+        {"text":"I dunno...","next":"8-1-3.json"}
+    ]
+}

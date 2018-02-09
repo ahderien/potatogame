@@ -4,7 +4,7 @@
     "dialogue":"Potato turns left and continues down the path until they come across Tomato.",
     
     "choices":[
-        {"text":"Left","next":"8-1.json"},
-        {"text":"Right","next":"8-2.json"}
+        {"text":"Next","next":"8-1-1.json"},
+        {"text":"","next":""}
     ]
 }
