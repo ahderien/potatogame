@@ -1,0 +1,10 @@
+{
+    "charleft":"potato.gif",
+    "charright":"tomato.gif",
+    "dialogue":"Okay!  Let's play hopscotch with Tomato!",
+    
+    "choices":[
+        {"text":"Okay, okay!","next":"8-1-2.json"},
+        {"text":"Run away!","next":"8-1-6.json"}
+    ]
+}

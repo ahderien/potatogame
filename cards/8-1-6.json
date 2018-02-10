@@ -1,0 +1,10 @@
+{
+    "charleft":"potato.gif",
+    "charright":"tomato.gif",
+    "dialogue":"Yikes.  Tomato plays a little too hard.  Better to run away.",
+    
+    "choices":[
+        {"text":"Next","next":"8-2.json"},
+        {"text":"","next":""}
+    ]
+}

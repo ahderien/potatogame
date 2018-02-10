@@ -1,0 +1,10 @@
+{
+    "charleft":"potato.gif",
+    "charright":"tomato.gif",
+    "dialogue":"Potato decides to run fast, but it looks like Tomato is taking the game pretty seriously, now.  Uhh... That's kinda scary.",
+    
+    "choices":[
+        {"text":"Run fast!","next":"8-1-7.json"},
+        {"text":"Run slow!","next":"8-1-8.json"}
+    ]
+}
