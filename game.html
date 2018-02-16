@@ -48,6 +48,12 @@ app.controller('gameCards', function($scope, $http) {
             $scope.charleft = "characters/"+response.data.charleft;
             $scope.charright = "characters/"+response.data.charright;
             $scope.dialogue = response.data.dialogue;
+            
+            if (data.x.text == '0'){
+                button.hide();
+            } else {
+                button.show();
+            }
         });
     };
 });
@@ -55,9 +61,9 @@ app.controller('gameCards', function($scope, $http) {
     
 <script>
     
-    if (data.x.text == '0'){
-    button.hide();
-}
+//    if (data.x.text == '0'){
+//    button.hide();
+//}
     
 </script>
 
