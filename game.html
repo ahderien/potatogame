@@ -31,7 +31,6 @@
 </div>
     
     <audio src="sound/bensound-jazzyfrenchy.mp3" autoplay="autoplay" loop="loop"></audio>
-    <audio id="blop" src="sound/blop.mp3"></audio>
     
 <script>
     
@@ -54,9 +53,6 @@ app.controller('gameCards', function($scope, $http) {
             $scope.charleft = "characters/"+response.data.charleft;
             $scope.charright = "characters/"+response.data.charright;
             $scope.dialogue = response.data.dialogue;
-            
-            button.addEventListener("click", function(){
-                blop.play();
                 
             });
             
