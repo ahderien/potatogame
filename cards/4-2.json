@@ -4,7 +4,6 @@
     "dialogue":"Oh.  What's this?  You want to learn about the history of choose your own adventure books?  Well... I guess.  So, the genre was invented sometime in the 1970s, in paper format, naturally.  Blah blah blah... Hey, are you even listening!?",
     
     "choices":[
-        {"text":"Next","next":"5-2.json"},
-        {"text":"","next":""}
+        {"text":"Next","next":"5-2.json"}
     ]
 }

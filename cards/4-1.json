@@ -4,7 +4,6 @@
     "dialogue":"Great.  All right, so as I was saying, this is the story of Potato.  Weather, blah blah.",
     
     "choices":[
-        {"text":"Next","next":"5-1.json"},
-        {"text":"","next":""}
+        {"text":"Next","next":"5-1.json"}
     ]
 }

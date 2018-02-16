@@ -4,7 +4,6 @@
     "dialogue":"What a good day!  That's all there is on this branch right now.  Play again?",
     
     "choices":[
-        {"text":"Replay","next":"1.json"},
         {"text":"Replay","next":"1.json"}
     ]
 }

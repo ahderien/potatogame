@@ -4,7 +4,6 @@
     "dialogue":"Tomato catches up to Potato. Tomato has very bad manners.",
     
     "choices":[
-        {"text":"Retry","next":"1.json"},
         {"text":"Retry","next":"1.json"}
     ]
 }

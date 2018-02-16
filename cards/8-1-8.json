@@ -4,7 +4,6 @@
     "dialogue":"Potato decides to run slowly.  The game isn't as challenging like this, but everyone has lots of fun.",
     
     "choices":[
-        {"text":"Next","next":"8-1-10.json"},
-        {"text":"","next":""}
+        {"text":"Next","next":"8-1-10.json"}
     ]
 }

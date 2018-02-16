@@ -4,7 +4,6 @@
     "dialogue":"Potato decides to run fast, but it looks like Tomato is taking the game pretty seriously, now.  Uhh... That's kinda scary.",
     
     "choices":[
-        {"text":"Next!","next":"8-1-9.json"},
-        {"text":"","next":""}
+        {"text":"Next!","next":"8-1-9.json"}
     ]
 }
