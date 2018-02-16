@@ -8,7 +8,7 @@
         <link rel="stylesheet" href="game.css">
     </head>
 <body>
-    
+
 <div ng-app="myApp" ng-controller="gameCards">
     
     <div class="game">
@@ -31,7 +31,6 @@
 </div>
     
 <script>
-    
 var app = angular.module('myApp', []);
 app.controller('gameCards', function($scope, $http) {
     $http.get("cards/start.json")
@@ -49,9 +48,12 @@ app.controller('gameCards', function($scope, $http) {
             $scope.charleft = "characters/"+response.data.charleft;
             $scope.charright = "characters/"+response.data.charright;
             $scope.dialogue = response.data.dialogue;
-                
-            });
             
+//            if (data.x.text == '0'){
+//                button.hide();
+//            } else {
+//                button.show();
+//            }
         });
     };
 });
