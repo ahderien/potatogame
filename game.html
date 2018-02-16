@@ -33,8 +33,6 @@
     
 <script>
     
-var blop = document.getElementById("blop");
-    
 var app = angular.module('myApp', []);
 app.controller('gameCards', function($scope, $http) {
     $http.get("cards/start.json")
