@@ -1,0 +1,9 @@
+{
+    "charleft":"potato.gif",
+    "charright":"tomato.gif",
+    "dialogue":"Well, a marshmallow doesn't make for cleanest gam ever, but everyone is having fun!",
+    
+    "choices":[
+        {"text":"Next","next":"8-1-13.json"}
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "charleft":"potato.gif",
+    "charright":"",
+    "dialogue":"That's all there is for this route right now.  Replay?",
+    
+    "choices":[
+        {"text":"Replay","next":"1.json"}
+    ]
+}

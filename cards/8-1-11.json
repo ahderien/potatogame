@@ -1,0 +1,9 @@
+{
+    "charleft":"potato.gif",
+    "charright":"tomato.gif",
+    "dialogue":"Eek!  Tomato throws too hard!!  Tomato has very bad manners.",
+    
+    "choices":[
+        {"text":"Retry?","next":"1.json"}
+    ]
+}
